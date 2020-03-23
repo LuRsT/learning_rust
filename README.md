@@ -7,4 +7,4 @@ This is a repo with some simple exercises I'm doing to learn Rust.
 
 - [X] [FizzBuzz](fizzbuzz)
 - [ ] [Calculator](calculator)
-- [-] [Guessing game](guessing_game) (Chapter 2 of book Programming Rust)
+- [ ] [Guessing game](guessing_game) (Chapter 2 of book Programming Rust)
